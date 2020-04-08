@@ -1,6 +1,9 @@
 # Modeling and Simulation of an Autonomous Underwater Vehicle
 Copyright 2020-2021, The MathWorks, Inc
 
+[![View Modeling and Simulation of an Autonomous Underwater Vehicle on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74931-modeling-and-simulation-of-an-autonomous-underwater-vehicle)
+
+
 # Description
 This submission contains the files used in this video on modeling, simulation and control of an Autonomous Underwater vehicle - &lt;Link TBD once video is live>. This submission models a 6-DoF autonomous underwater vehicle (AUV) and a position and velocity controller for the AUV. You can switch between low and high fidelity sensor and environment models based on your application needs.
 
