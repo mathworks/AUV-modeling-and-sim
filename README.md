@@ -1,0 +1,2 @@
+# AUV-modeling-and-sim
+This submission contains the files used in this video on modeling, simulation and control of an Autonomous Underwater vehicle - &lt;Link TBD once video is live>. This submission models a 6-DoF autonomous underwater vehicle (AUV) and a position and velocity controller for the AUV. You can switch between low and high fidelity sensor and environment models based on your application needs.
