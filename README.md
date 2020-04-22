@@ -7,7 +7,7 @@ Copyright 2020-2021, The MathWorks, Inc
 # Description
 This submission contains the files used in this video on [Modeling, Simulation and Control of an Autonomous Underwater vehicle](https://www.mathworks.com/videos/modeling-and-simulation-of-an-autonomous-underwater-vehicle-1586937688878.html). This submission models a 6-DoF autonomous underwater vehicle (AUV) and a position and velocity controller for the AUV. You can switch between low and high fidelity sensor and environment models based on your application needs.
 
-Aerospace Blockset is used to model the dynamics of the vehicle. [To learn how to model the thrusters using system identification, watch this video](https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-from-data-to-model-1518156121608.html)
+Aerospace Blockset is used to model the dynamics of the vehicle. [Watch this video to learn how to model the thrusters using system identification](https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-from-data-to-model-1518156121608.html)
 
 # Files:
 1. AUVmodelingandsim.prj - Launches the project and sets up the environment appropriately.
